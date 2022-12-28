@@ -1,7 +1,7 @@
 # restoran-pizza-pam
 
-Nama  : Nafa Khairunnisa
-NIM   : 1207050088
+Nama  : Nafa Khairunnisa </br>
+NIM   : 1207050088 </br>
 Kelas : Praktikum Pengembangan Aplikasi Mobile D
 
 ## Tampilan
